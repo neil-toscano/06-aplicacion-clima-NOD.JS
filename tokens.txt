@@ -1,0 +1,2 @@
+mapboxKey=pk.eyJ1IjoibmVpZGNhbiIsImEiOiJjbGQzcHdvNDUwZWoxM3dxanpmd281NGZmIn0.QfbHYN5Nl64z-e3t2mshVg
+https://api.openweathermap.org/data/2.5/weather?lat=-12.1352855&lon=-77.0272705&appid=e0bb0abed4e951324d3a2d1c5f79495a&lang=es&units=metric
