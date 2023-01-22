@@ -43,10 +43,7 @@ rl.question('What do you think of Node.js? ', (answer) => {
   rl.close();
 });
 ```
-## A LA HORA DE SUBIR UN PROYECTO CONSIDEREMOS
----
-<p align="center">Configurar:</p>
-<p align="center"><img src="imagenes/imagen1"/></p>
+
 
 ---
 ## A LA HORA DE SUBIR A GITHUB TENER EN CUENTA
