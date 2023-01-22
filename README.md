@@ -2,22 +2,28 @@
 ## PLANTILLA USADA
 -[PLANTILLA USADA](#https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md)
 -https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md
-## APLICACION PARA VER EL CLIMA DE UNA CIUDAD
-## DOCUMENTACIÓN README.md
-Se pondrá toda la documentación, acerca de este capítulo
+
 ## OJO
 ---
 Una vez descargado el archivo de GitHub se debe ejecutar el sgte comando
 ```js
 npm install 
 ```
+## APLICACION PARA VER EL CLIMA DE UNA CIUDAD
+## DOCUMENTACIÓN README.md
+Se pondrá toda la documentación, acerca de este capítulo
+
 
 ## OBSERVACIÓN
 AL INICIAR UN PROYECTO ESCRIBIR 
 ```
 npm init -y
 ```
+---
+
 ## OBSERVACION
+Código para leer datos:
+
 ```
 const readline = require('node:readline');
 const { stdin: input, stdout: output } = require('node:process');
@@ -43,7 +49,8 @@ EN .gitignore PONER node_modules/
 ```
 ## TRABAJAMOS CON EL PAQUETE INQUIRER PARA HACER MENUS INTERACTIVOS
 ---
-- [PAQUETE INQUIRER](#https://www.npmjs.com/package/inquirer)
+
+- [PAQUETE INQUIRER](https://www.npmjs.com/package/inquirer)
 ```
 
 ```
