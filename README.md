@@ -24,7 +24,7 @@ npm init -y
 ## OBSERVACION
 Código para leer datos:
 
-```
+```js
 const readline = require('node:readline');
 const { stdin: input, stdout: output } = require('node:process');
 
